@@ -1,15 +1,5 @@
 [
   {
-    "title": "走れ！",
-    "artists": [
-      "久川颯",
-      "乙倉悠貴"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "ももいろクローバー"
-  },
-  {
     "title": "ぱ ぴ ぷ ぺ POP!",
     "artists": [
       "荒木比奈",
@@ -28,16 +18,6 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "Reol"
-  },
-  {
-    "title": "ノートの中のテラリウム",
-    "artists": [
-      "森久保乃々",
-      "久川凪"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
   },
   {
     "title": "Hardcore Toyworld",
@@ -138,6 +118,19 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "ano"
+  },
+  {
+    "title": "この恋の解を答えなさい",
+    "artists": [
+      "久川颯",
+      "高森藍子",
+      "夢見りあむ",
+      "神崎蘭子",
+      "大石泉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
   },
   {
     "title": "Star!!",
@@ -5508,6 +5501,26 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "ももいろクローバーZ"
+  },
+  {
+    "title": "ノートの中のテラリウム",
+    "artists": [
+      "森久保乃々",
+      "久川凪"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "走れ！",
+    "artists": [
+      "久川颯",
+      "乙倉悠貴"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "ももいろクローバー"
   },
   {
     "title": "無限L∞PだLOVE♡",
