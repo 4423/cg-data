@@ -1,7 +1,7 @@
 # JSON of THE IDOLMASTER CINDERELLA GIRLS
 ![master](https://img.shields.io/github/last-commit/4423/cg-data/main)
 
-[GitHub Actions](./.github/workflows/update-json.yaml) periodically fetches data about THE IDOLMASTER CINDERELLA GIRLS from [ニコニコ大百科](https://dic.nicovideo.jp/) and puts them as JSON.
+[GitHub Actions in this repo](./.github/workflows/update-json.yaml) periodically fetches data about THE IDOLMASTER CINDERELLA GIRLS from [ニコニコ大百科](https://dic.nicovideo.jp/) and puts them as JSON.
 
 | Type      | JSON                                      | Source | 
 | --------- | ----------------------------------------- | ------ | 
