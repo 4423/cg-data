@@ -20,16 +20,6 @@
     "original_artist": "Reol"
   },
   {
-    "title": "Hardcore Toyworld",
-    "artists": [
-      "早坂美玲",
-      "砂塚あきら"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "世界はそれを愛と呼ぶんだぜ",
     "artists": [
       "佐藤心"
@@ -138,6 +128,19 @@
       "喜多見柚",
       "棟方愛海",
       "椎名法子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "WINTER and WINDOW",
+    "artists": [
+      "イヴ・サンタクロース",
+      "一ノ瀬志希",
+      "高森藍子",
+      "高垣楓",
+      "久川颯"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -5544,6 +5547,25 @@
       "神崎蘭子",
       "木村夏樹",
       "ナターリア"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Hardcore Toyworld",
+    "artists": [
+      "早坂美玲",
+      "砂塚あきら"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "碧空ノ一路",
+    "artists": [
+      "脇山珠美"
     ],
     "unit_name": null,
     "is_covered": false,
