@@ -1,16 +1,5 @@
 [
   {
-    "title": "ぱ ぴ ぷ ぺ POP!",
-    "artists": [
-      "荒木比奈",
-      "神谷奈緒",
-      "安部菜々"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "Appare!"
-  },
-  {
     "title": "第六感",
     "artists": [
       "砂塚あきら"
@@ -18,15 +7,6 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "Reol"
-  },
-  {
-    "title": "世界はそれを愛と呼ぶんだぜ",
-    "artists": [
-      "佐藤心"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "サンボマスター"
   },
   {
     "title": "可愛くてごめん",
@@ -56,42 +36,6 @@
     "original_artist": "なとり"
   },
   {
-    "title": "パジャマジャマ",
-    "artists": [
-      "依田芳乃",
-      "辻野あかり",
-      "島村卯月",
-      "神谷奈緒",
-      "佐久間まゆ"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "HALLOWEEN GAME",
-    "artists": [
-      "姫川友紀",
-      "中野有香",
-      "堀裕子",
-      "上条春菜",
-      "白雪千夜"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "D-ark L-ily's Grin",
-    "artists": [
-      "速水奏",
-      "北条加蓮"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "青春コンプレックス",
     "artists": [
       "星輝子"
@@ -108,30 +52,6 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "ano"
-  },
-  {
-    "title": "この恋の解を答えなさい",
-    "artists": [
-      "久川颯",
-      "高森藍子",
-      "夢見りあむ",
-      "神崎蘭子",
-      "大石泉"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "Teeenage☆Groovin’",
-    "artists": [
-      "喜多見柚",
-      "棟方愛海",
-      "椎名法子"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
   },
   {
     "title": "WINTER and WINDOW",
@@ -152,6 +72,32 @@
       "小日向美穂",
       "渋谷凛",
       "本田未央"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ワタシ御伽ばなシ",
+    "artists": [
+      "古賀小春",
+      "ライラ",
+      "森久保乃々",
+      "双葉杏",
+      "喜多日菜子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "スバル",
+    "artists": [
+      "水本ゆかり",
+      "大石泉",
+      "乙倉悠貴",
+      "多田李衣菜",
+      "神谷奈緒"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -2139,6 +2085,32 @@
     "original_artist": null
   },
   {
+    "title": "パジャマジャマ",
+    "artists": [
+      "依田芳乃",
+      "辻野あかり",
+      "島村卯月",
+      "神谷奈緒",
+      "佐久間まゆ"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "この恋の解を答えなさい",
+    "artists": [
+      "久川颯",
+      "高森藍子",
+      "夢見りあむ",
+      "神崎蘭子",
+      "大石泉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜",
     "artists": [
       "渋谷凛",
@@ -4047,6 +4019,53 @@
     "original_artist": "プリンセスコネクト！Re:Dive"
   },
   {
+    "title": "ソワレ",
+    "artists": [
+      "木村夏樹"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "星街すいせい"
+  },
+  {
+    "title": "みちづれ",
+    "artists": [
+      "黒埼ちとせ"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "星街すいせい"
+  },
+  {
+    "title": "ジュビリー",
+    "artists": [
+      "高垣楓",
+      "星街すいせい"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "灼熱にて純情(wii-wii-woo)",
+    "artists": [
+      "星輝子"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "星街すいせい"
+  },
+  {
+    "title": "Stellar Stellar",
+    "artists": [
+      "渋谷凛",
+      "星街すいせい"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "星街すいせい"
+  },
+  {
     "title": "Yes! Party Time!!",
     "artists": [
       "島村卯月",
@@ -5581,6 +5600,81 @@
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
+  },
+  {
+    "title": "HALLOWEEN GAME",
+    "artists": [
+      "姫川友紀",
+      "中野有香",
+      "堀裕子",
+      "上条春菜",
+      "白雪千夜"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ミステリーハート",
+    "artists": [
+      "宮本フレデリカ",
+      "速水奏"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "D-ark L-ily's Grin",
+    "artists": [
+      "速水奏",
+      "北条加蓮"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "書きかけのラブレター",
+    "artists": [
+      "関裕美",
+      "白菊ほたる",
+      "森久保乃々"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Teeenage☆Groovin’",
+    "artists": [
+      "喜多見柚",
+      "棟方愛海",
+      "椎名法子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ぱ ぴ ぷ ぺ POP!",
+    "artists": [
+      "荒木比奈",
+      "神谷奈緒",
+      "安部菜々"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "Appare!"
+  },
+  {
+    "title": "世界はそれを愛と呼ぶんだぜ",
+    "artists": [
+      "佐藤心"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "サンボマスター"
   },
   {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
