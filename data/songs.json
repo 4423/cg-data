@@ -54,30 +54,6 @@
     "original_artist": "ano"
   },
   {
-    "title": "WINTER and WINDOW",
-    "artists": [
-      "イヴ・サンタクロース",
-      "一ノ瀬志希",
-      "高森藍子",
-      "高垣楓",
-      "久川颯"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "Come to you",
-    "artists": [
-      "小日向美穂",
-      "渋谷凛",
-      "本田未央"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "ワタシ御伽ばなシ",
     "artists": [
       "古賀小春",
@@ -98,6 +74,19 @@
       "乙倉悠貴",
       "多田李衣菜",
       "神谷奈緒"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "神様！絶対だよ",
+    "artists": [
+      "イヴ・サンタクロース",
+      "西園寺琴歌",
+      "島村卯月",
+      "新田美波",
+      "高森藍子"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -2111,6 +2100,19 @@
     "original_artist": null
   },
   {
+    "title": "WINTER and WINDOW",
+    "artists": [
+      "イヴ・サンタクロース",
+      "一ノ瀬志希",
+      "高森藍子",
+      "高垣楓",
+      "久川颯"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜",
     "artists": [
       "渋谷凛",
@@ -4019,6 +4021,16 @@
     "original_artist": "プリンセスコネクト！Re:Dive"
   },
   {
+    "title": "ジュビリー",
+    "artists": [
+      "高垣楓",
+      "星街すいせい"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ソワレ",
     "artists": [
       "木村夏樹"
@@ -4035,16 +4047,6 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "星街すいせい"
-  },
-  {
-    "title": "ジュビリー",
-    "artists": [
-      "高垣楓",
-      "星街すいせい"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
   },
   {
     "title": "灼熱にて純情(wii-wii-woo)",
@@ -5675,6 +5677,26 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "サンボマスター"
+  },
+  {
+    "title": "Come to you",
+    "artists": [
+      "小日向美穂",
+      "渋谷凛",
+      "本田未央"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "DYNAMITE FEVER MEGAMIX",
+    "artists": [
+      "片桐早苗"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
   },
   {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
