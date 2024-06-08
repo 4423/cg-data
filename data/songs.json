@@ -54,19 +54,6 @@
     "original_artist": "ano"
   },
   {
-    "title": "ワタシ御伽ばなシ",
-    "artists": [
-      "古賀小春",
-      "ライラ",
-      "森久保乃々",
-      "双葉杏",
-      "喜多日菜子"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "スバル",
     "artists": [
       "水本ゆかり",
@@ -5693,6 +5680,28 @@
     "title": "DYNAMITE FEVER MEGAMIX",
     "artists": [
       "片桐早苗"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ワタシ御伽ばなシ",
+    "artists": [
+      "古賀小春",
+      "ライラ",
+      "森久保乃々",
+      "双葉杏",
+      "喜多日菜子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "青春のWanna!",
+    "artists": [
+      "小関麗奈"
     ],
     "unit_name": null,
     "is_covered": false,
