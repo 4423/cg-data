@@ -54,19 +54,6 @@
     "original_artist": "ano"
   },
   {
-    "title": "ワタシ御伽ばなシ",
-    "artists": [
-      "古賀小春",
-      "ライラ",
-      "森久保乃々",
-      "双葉杏",
-      "喜多日菜子"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "スバル",
     "artists": [
       "水本ゆかり",
@@ -2706,7 +2693,11 @@
   {
     "title": "認めてくれなくたっていいよ",
     "artists": [
-      "シリーズ"
+      "藤原肇",
+      "松永涼",
+      "三船美優",
+      "黒埼ちとせ",
+      "早坂美玲"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -5699,6 +5690,28 @@
     "original_artist": null
   },
   {
+    "title": "ワタシ御伽ばなシ",
+    "artists": [
+      "古賀小春",
+      "ライラ",
+      "森久保乃々",
+      "双葉杏",
+      "喜多日菜子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "青春のWanna!",
+    "artists": [
+      "小関麗奈"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
     "artists": [
       "渋谷凛",
@@ -5810,6 +5823,32 @@
       "片桐早苗",
       "大槻唯",
       "相葉夕美"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "認めてくれなくたっていいよ(Cool)",
+    "artists": [
+      "松永涼",
+      "三船美優",
+      "森久保乃々",
+      "藤原肇",
+      "砂塚あきら"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "認めてくれなくたっていいよ(Cute)",
+    "artists": [
+      "乙倉悠貴",
+      "関裕美",
+      "白菊ほたる",
+      "早坂美玲",
+      "黒埼ちとせ"
     ],
     "unit_name": null,
     "is_covered": false,
