@@ -82,7 +82,7 @@ class SongScraper:
     def _get_song(self, song_tr: Tag) -> Song:
         tds = song_tr.find_all("td")
         title = tds[0].text
-        artists = [a.text for a in tds[1].find_all("a")]
+        artists = self._get_artists(tds[1].text)
         is_covered = "#f0f8ff" in tds[0]["style"]
 
         if is_covered:
@@ -99,6 +99,12 @@ class SongScraper:
         self._pretty(song)
         return song
 
+    def _get_artists(self, artists_text: str) -> list[str]:
+        artists = []
+        for artist in artists_text.split("、"):
+            artists.append(re.sub(r"\*\d+", "", artist.strip()))
+        return artists
+    
     # immutable にしたいが大変なので引数を書き換える
     def _pretty(self, song: Song):
         # 前後にある改行文字や記号を除去
@@ -215,12 +221,12 @@ class SongScraper:
         def pretty_unit_with(title, unit_name, artists):
             if title == song.title:
                 song.unit_name = unit_name
-                song.artists.extend(artists)
+                song.artists = artists
 
-        pretty_unit_with("私色ギフト", "凸レーション with 城ヶ崎美嘉", ["城ヶ崎美嘉"])
-        pretty_unit_with("Heart Voice", "CANDY ISLAND with 輿水幸子", ["輿水幸子"])
-        pretty_unit_with("Wonder goes on!!", "*(Asterisk) with なつなな", ["木村夏樹", "安部菜々"])
-        pretty_unit_with("この空の下", "LOVE LAIKA with Rosenburg Engel", ["神崎蘭子"])
+        pretty_unit_with("私色ギフト", "凸レーション with 城ヶ崎美嘉", ["城ヶ崎莉嘉", "諸星きらり", "赤城みりあ", "城ヶ崎美嘉"])
+        pretty_unit_with("Heart Voice", "CANDY ISLAND with 輿水幸子", ["三村かな子", "双葉杏", "緒方智絵里", "輿水幸子"])
+        pretty_unit_with("Wonder goes on!!", "*(Asterisk) with なつなな", ["前川みく", "多田李衣菜", "木村夏樹", "安部菜々"])
+        pretty_unit_with("この空の下", "LOVE LAIKA with Rosenburg Engel", ["新田美波", "アナスタシア", "神崎蘭子"])
 
         if song.artists == ["U149"]:
             song.artists = ["橘ありす", "櫻井桃華", "赤城みりあ", "的場梨沙", "結城晴", "佐々木千枝", "龍崎薫", "市原仁奈", "古賀小春"]
