@@ -9,15 +9,6 @@
     "original_artist": "Reol"
   },
   {
-    "title": "可愛くてごめん",
-    "artists": [
-      "輿水幸子"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "HoneyWorks"
-  },
-  {
     "title": "トウキョウ・シャンディ・ランデヴ",
     "artists": [
       "的場梨沙"
@@ -54,26 +45,43 @@
     "original_artist": "ano"
   },
   {
-    "title": "スバル",
+    "title": "Fin[e]～美しき終焉～",
     "artists": [
-      "水本ゆかり",
-      "大石泉",
-      "乙倉悠貴",
-      "多田李衣菜",
-      "神谷奈緒"
+      "一ノ瀬志希",
+      "黒埼ちとせ"
     ],
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
   },
   {
-    "title": "神様！絶対だよ",
+    "title": "EPHEMERAL AЯROW",
+    "artists": [
+      "白雪千夜",
+      "二宮飛鳥"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "We wish your smile",
     "artists": [
       "イヴ・サンタクロース",
-      "西園寺琴歌",
-      "島村卯月",
-      "新田美波",
-      "高森藍子"
+      "望月聖"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "スマイルファンタジー",
+    "artists": [
+      "道明寺歌鈴",
+      "鷹富士茄子",
+      "アナスタシア",
+      "川島瑞樹",
+      "城ヶ崎莉嘉"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -2100,6 +2108,33 @@
     "original_artist": null
   },
   {
+    "title": "Clock Hands",
+    "artists": [
+      "白雪千夜"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "にんぎょひめ練習中！",
+    "artists": [
+      "浅利七海"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "あの子が街に来なサンタ",
+    "artists": [
+      "イヴ・サンタクロース"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜",
     "artists": [
       "渋谷凛",
@@ -2818,6 +2853,64 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "三浦大知"
+  },
+  {
+    "title": "熱情エナモラル",
+    "artists": [
+      "依田芳乃",
+      "村上巴",
+      "佐藤心",
+      "夢見りあむ",
+      "久川凪"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "インドア系ならトラックメイカー",
+    "artists": [
+      "久川凪"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "Yunomi & nicamoq"
+  },
+  {
+    "title": "INTERNET YAMERO",
+    "artists": [
+      "夢見りあむ"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "KOTOKO"
+  },
+  {
+    "title": "SWEET MEMORIES",
+    "artists": [
+      "佐藤心"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "松田聖子"
+  },
+  {
+    "title": "夜桜お七",
+    "artists": [
+      "村上巴"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "坂本冬美"
+  },
+  {
+    "title": "花",
+    "artists": [
+      "依田芳乃"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "中孝介"
   },
   {
     "title": "青空エール",
@@ -5415,7 +5508,7 @@
     "original_artist": "ももいろクローバーZ"
   },
   {
-    "title": "N.O.R.〜Notes of Revolution〜\n革命についての覚書",
+    "title": "N.O.R.〜Notes of Revolution〜\r\n革命についての覚書",
     "artists": [
       "脇山珠美",
       "星輝子",
@@ -5712,6 +5805,110 @@
     "original_artist": null
   },
   {
+    "title": "スバル",
+    "artists": [
+      "水本ゆかり",
+      "大石泉",
+      "乙倉悠貴",
+      "多田李衣菜",
+      "神谷奈緒"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "アッパレ♪Mahara★Japaaan!",
+    "artists": [
+      "片桐早苗",
+      "及川雫",
+      "堀裕子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "神様！絶対だよ",
+    "artists": [
+      "イヴ・サンタクロース",
+      "西園寺琴歌",
+      "島村卯月",
+      "新田美波",
+      "高森藍子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Enishi",
+    "artists": [
+      "小早川紗枝",
+      "塩見周子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "流星浪漫",
+    "artists": [
+      "鷺沢文香",
+      "鷹富士茄子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Merry Warm Bodies",
+    "artists": [
+      "白坂小梅"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "バラカストーリア～月と太陽に祝福を～",
+    "artists": [
+      "ナターリア",
+      "ライラ"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Darkness",
+    "artists": [
+      "白菊ほたる"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "モラトリアム",
+    "artists": [
+      "夢見りあむ",
+      "双葉杏"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "可愛くてごめん",
+    "artists": [
+      "輿水幸子"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "HoneyWorks"
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
     "artists": [
       "渋谷凛",
@@ -5897,6 +6094,23 @@
       "浅倉透"
     ],
     "unit_name": "THE IDOLM@STER FIVE STARS!!!!!",
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Fantasia for the Girls",
+    "artists": [
+      "久川颯",
+      "イヴ・サンタクロース",
+      "白雪千夜",
+      "神谷奈緒",
+      "藤原肇",
+      "依田芳乃",
+      "赤城みりあ",
+      "星輝子",
+      "小早川紗枝"
+    ],
+    "unit_name": null,
     "is_covered": false,
     "original_artist": null
   }
