@@ -1,14 +1,5 @@
 [
   {
-    "title": "第六感",
-    "artists": [
-      "砂塚あきら"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "Reol"
-  },
-  {
     "title": "トウキョウ・シャンディ・ランデヴ",
     "artists": [
       "的場梨沙"
@@ -45,16 +36,6 @@
     "original_artist": "ano"
   },
   {
-    "title": "Fin[e]～美しき終焉～",
-    "artists": [
-      "一ノ瀬志希",
-      "黒埼ちとせ"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "EPHEMERAL AЯROW",
     "artists": [
       "白雪千夜",
@@ -82,6 +63,19 @@
       "アナスタシア",
       "川島瑞樹",
       "城ヶ崎莉嘉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "イーリャンサンキュー",
+    "artists": [
+      "中野有香",
+      "大和亜季",
+      "久川凪",
+      "三村かな子",
+      "前川みく"
     ],
     "unit_name": null,
     "is_covered": false,
