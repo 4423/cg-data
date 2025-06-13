@@ -1,23 +1,5 @@
 [
   {
-    "title": "第六感",
-    "artists": [
-      "砂塚あきら"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "Reol"
-  },
-  {
-    "title": "トウキョウ・シャンディ・ランデヴ",
-    "artists": [
-      "的場梨沙"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "MAISONdes"
-  },
-  {
     "title": "Overdose",
     "artists": [
       "塩見周子"
@@ -45,43 +27,45 @@
     "original_artist": "ano"
   },
   {
-    "title": "Fin[e]～美しき終焉～",
+    "title": "スターライトステージ",
     "artists": [
-      "一ノ瀬志希",
-      "黒埼ちとせ"
+      "荒木比奈",
+      "諸星きらり",
+      "宮本フレデリカ",
+      "南条光",
+      "的場梨沙"
     ],
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
   },
   {
-    "title": "EPHEMERAL AЯROW",
+    "title": "禍魂朧夜",
     "artists": [
-      "白雪千夜",
-      "二宮飛鳥"
+      "浜口あやめ",
+      "塩見周子",
+      "村上巴"
     ],
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
   },
   {
-    "title": "We wish your smile",
+    "title": "Morgana",
     "artists": [
-      "イヴ・サンタクロース",
-      "望月聖"
+      "八神マキノ",
+      "大石泉",
+      "浅利七海"
     ],
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
   },
   {
-    "title": "スマイルファンタジー",
+    "title": "オトメゴコロ更新中",
     "artists": [
-      "道明寺歌鈴",
-      "鷹富士茄子",
-      "アナスタシア",
-      "川島瑞樹",
-      "城ヶ崎莉嘉"
+      "辻野あかり",
+      "関裕美"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -2129,6 +2113,33 @@
     "title": "あの子が街に来なサンタ",
     "artists": [
       "イヴ・サンタクロース"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Numberless",
+    "artists": [
+      "大石泉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "メサイア",
+    "artists": [
+      "望月聖"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "千夜一夜",
+    "artists": [
+      "ライラ"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -5909,6 +5920,124 @@
     "original_artist": "HoneyWorks"
   },
   {
+    "title": "Fantasia for the Girls",
+    "artists": [
+      "久川颯",
+      "イヴ・サンタクロース",
+      "白雪千夜",
+      "神谷奈緒",
+      "藤原肇",
+      "依田芳乃",
+      "赤城みりあ",
+      "星輝子",
+      "小早川紗枝"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Fin[e]～美しき終焉～",
+    "artists": [
+      "一ノ瀬志希",
+      "黒埼ちとせ"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "第六感",
+    "artists": [
+      "砂塚あきら"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "Reol"
+  },
+  {
+    "title": "EPHEMERAL AЯROW",
+    "artists": [
+      "白雪千夜",
+      "二宮飛鳥"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "トウキョウ・シャンディ・ランデヴ",
+    "artists": [
+      "的場梨沙"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "MAISONdes"
+  },
+  {
+    "title": "We wish your smile",
+    "artists": [
+      "イヴ・サンタクロース",
+      "望月聖"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Cosmo Cosme",
+    "artists": [
+      "城ヶ崎美嘉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "スマイルファンタジー",
+    "artists": [
+      "道明寺歌鈴",
+      "鷹富士茄子",
+      "アナスタシア",
+      "川島瑞樹",
+      "城ヶ崎莉嘉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "さいきっく☆うぉんちゅー！",
+    "artists": [
+      "堀裕子"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "イーリャンサンキュー",
+    "artists": [
+      "中野有香",
+      "大和亜季",
+      "久川凪",
+      "三村かな子",
+      "前川みく"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Coffret Comet",
+    "artists": [
+      "城ヶ崎莉嘉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
     "artists": [
       "渋谷凛",
@@ -6094,23 +6223,6 @@
       "浅倉透"
     ],
     "unit_name": "THE IDOLM@STER FIVE STARS!!!!!",
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "Fantasia for the Girls",
-    "artists": [
-      "久川颯",
-      "イヴ・サンタクロース",
-      "白雪千夜",
-      "神谷奈緒",
-      "藤原肇",
-      "依田芳乃",
-      "赤城みりあ",
-      "星輝子",
-      "小早川紗枝"
-    ],
-    "unit_name": null,
     "is_covered": false,
     "original_artist": null
   }
