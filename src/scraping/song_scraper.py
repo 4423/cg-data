@@ -11,14 +11,7 @@ class SongScraper:
         songs = []
         ids = self._get_cinderella_ids(soup)
         for id in ids:
-            if id == "CG_sm-CQ":
-                # STARLIGHT MASTER CRYSTAL QUALIA には一つ前の CG_sm-HT が間違って設定されている
-                # skip して _other_songs() で対応する
-                continue
-
-            a = soup.find("a", attrs={"name": id})
-            if a is None:
-                a = soup.find("a", attrs={"id": id})
+            a = self._find_a_by_id(soup, id)
             head_tr = a.find_parent("tr")
             song_tr = head_tr.find_next("th", text="曲名").parent.find_next("tr")
             # 行の終わりまで繰り返す
@@ -28,6 +21,17 @@ class SongScraper:
                 song_tr = song_tr.find_next("tr")
 
         return songs + self._other_songs()
+
+    def _find_a_by_id(self, soup: BeautifulSoup, id: str) -> Tag | None:
+        if id == "CG_sm-CQ":
+            # STARLIGHT MASTER CRYSTAL QUALIA には一つ前の CG_sm-HT が間違って設定されている
+            # そのため text で検索する
+            return soup.find("a", text="STARLIGHT MASTER CRYSTAL QUALIA")
+
+        a = soup.find("a", attrs={"name": id})
+        if a is not None:
+            return a
+        return soup.find("a", attrs={"id": id})
 
     def _parse(self, html: str) -> BeautifulSoup:
         soup = BeautifulSoup(html, "html.parser")
@@ -303,19 +307,4 @@ class SongScraper:
                 ],
                 "THE IDOLM@STER FIVE STARS!!!!!",
             ),
-            # CG_sm-CQ
-            Song(
-                "Fantasia for the Girls",
-                [
-                    "久川颯",
-                    "イヴ・サンタクロース",
-                    "白雪千夜",
-                    "神谷奈緒",
-                    "藤原肇",
-                    "依田芳乃",
-                    "赤城みりあ",
-                    "星輝子",
-                    "小早川紗枝",
-                ],
-            )
         ]
