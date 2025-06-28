@@ -27,19 +27,6 @@
     "original_artist": "ano"
   },
   {
-    "title": "スターライトステージ",
-    "artists": [
-      "荒木比奈",
-      "諸星きらり",
-      "宮本フレデリカ",
-      "南条光",
-      "的場梨沙"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "禍魂朧夜",
     "artists": [
       "浜口あやめ",
@@ -5519,7 +5506,7 @@
     "original_artist": "ももいろクローバーZ"
   },
   {
-    "title": "N.O.R.〜Notes of Revolution〜\r\n革命についての覚書",
+    "title": "N.O.R.〜Notes of Revolution〜\n革命についての覚書",
     "artists": [
       "脇山珠美",
       "星輝子",
@@ -6032,6 +6019,28 @@
     "title": "Coffret Comet",
     "artists": [
       "城ヶ崎莉嘉"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "スターライトステージ",
+    "artists": [
+      "荒木比奈",
+      "諸星きらり",
+      "宮本フレデリカ",
+      "南条光",
+      "的場梨沙"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ひだまりの中で",
+    "artists": [
+      "小日向美穂"
     ],
     "unit_name": null,
     "is_covered": false,
