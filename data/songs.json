@@ -18,26 +18,6 @@
     "original_artist": "結束バンド"
   },
   {
-    "title": "ちゅ、多様性。",
-    "artists": [
-      "宮本フレデリカ"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "ano"
-  },
-  {
-    "title": "禍魂朧夜",
-    "artists": [
-      "浜口あやめ",
-      "塩見周子",
-      "村上巴"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
     "title": "Morgana",
     "artists": [
       "八神マキノ",
@@ -6045,6 +6025,26 @@
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
+  },
+  {
+    "title": "禍魂朧夜",
+    "artists": [
+      "浜口あやめ",
+      "塩見周子",
+      "村上巴"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "ちゅ、多様性。",
+    "artists": [
+      "宮本フレデリカ"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "ano"
   },
   {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
