@@ -39,6 +39,18 @@
     "original_artist": null
   },
   {
+    "title": "がおちゅー♪さふぁりぱーく！",
+    "artists": [
+      "三船美優",
+      "市原仁奈",
+      "向井拓海",
+      "及川雫"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
     "title": "Star!!",
     "artists": [
       "島村卯月",
@@ -5486,7 +5498,7 @@
     "original_artist": "ももいろクローバーZ"
   },
   {
-    "title": "N.O.R.〜Notes of Revolution〜\n革命についての覚書",
+    "title": "N.O.R.〜Notes of Revolution〜\r\n革命についての覚書",
     "artists": [
       "脇山珠美",
       "星輝子",
