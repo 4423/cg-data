@@ -1,14 +1,5 @@
 [
   {
-    "title": "Overdose",
-    "artists": [
-      "塩見周子"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "なとり"
-  },
-  {
     "title": "青春コンプレックス",
     "artists": [
       "星輝子"
@@ -18,21 +9,22 @@
     "original_artist": "結束バンド"
   },
   {
-    "title": "Morgana",
+    "title": "オトメゴコロ更新中",
     "artists": [
-      "八神マキノ",
-      "大石泉",
-      "浅利七海"
+      "辻野あかり",
+      "関裕美"
     ],
     "unit_name": null,
     "is_covered": false,
     "original_artist": null
   },
   {
-    "title": "オトメゴコロ更新中",
+    "title": "がおちゅー♪さふぁりぱーく！",
     "artists": [
-      "辻野あかり",
-      "関裕美"
+      "三船美優",
+      "市原仁奈",
+      "向井拓海",
+      "及川雫"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -6045,6 +6037,26 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "ano"
+  },
+  {
+    "title": "Morgana",
+    "artists": [
+      "八神マキノ",
+      "大石泉",
+      "浅利七海"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Overdose",
+    "artists": [
+      "塩見周子"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "なとり"
   },
   {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
