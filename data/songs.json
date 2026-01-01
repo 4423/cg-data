@@ -1,38 +1,11 @@
 [
   {
-    "title": "Overdose",
+    "title": "がおちゅー♪さふぁりぱーく！",
     "artists": [
-      "塩見周子"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "なとり"
-  },
-  {
-    "title": "青春コンプレックス",
-    "artists": [
-      "星輝子"
-    ],
-    "unit_name": null,
-    "is_covered": true,
-    "original_artist": "結束バンド"
-  },
-  {
-    "title": "Morgana",
-    "artists": [
-      "八神マキノ",
-      "大石泉",
-      "浅利七海"
-    ],
-    "unit_name": null,
-    "is_covered": false,
-    "original_artist": null
-  },
-  {
-    "title": "オトメゴコロ更新中",
-    "artists": [
-      "辻野あかり",
-      "関裕美"
+      "三船美優",
+      "市原仁奈",
+      "向井拓海",
+      "及川雫"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -2107,6 +2080,24 @@
     "title": "千夜一夜",
     "artists": [
       "ライラ"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "EVERAFTER",
+    "artists": [
+      "島村卯月",
+      "一ノ瀬志希",
+      "西園寺琴歌",
+      "早坂美玲",
+      "大石泉",
+      "速水奏",
+      "森久保乃々",
+      "大槻唯",
+      "的場梨沙",
+      "夢見りあむ"
     ],
     "unit_name": null,
     "is_covered": false,
@@ -5486,7 +5477,7 @@
     "original_artist": "ももいろクローバーZ"
   },
   {
-    "title": "N.O.R.〜Notes of Revolution〜\n革命についての覚書",
+    "title": "N.O.R.〜Notes of Revolution〜\r\n革命についての覚書",
     "artists": [
       "脇山珠美",
       "星輝子",
@@ -6045,6 +6036,45 @@
     "unit_name": null,
     "is_covered": true,
     "original_artist": "ano"
+  },
+  {
+    "title": "Morgana",
+    "artists": [
+      "八神マキノ",
+      "大石泉",
+      "浅利七海"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "Overdose",
+    "artists": [
+      "塩見周子"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "なとり"
+  },
+  {
+    "title": "オトメゴコロ更新中",
+    "artists": [
+      "辻野あかり",
+      "関裕美"
+    ],
+    "unit_name": null,
+    "is_covered": false,
+    "original_artist": null
+  },
+  {
+    "title": "青春コンプレックス",
+    "artists": [
+      "星輝子"
+    ],
+    "unit_name": null,
+    "is_covered": true,
+    "original_artist": "結束バンド"
   },
   {
     "title": "ススメ☆オトメ〜jewel parade〜(Cool)",
